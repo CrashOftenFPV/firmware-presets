@@ -1,4 +1,4 @@
-#$ TITLE: Default rates
+#$ TITLE: 4lilpigs rates
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY

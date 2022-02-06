@@ -698,8 +698,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/4lilpigs_Modes.txt",
-      "hash": "3133ed1fc18438a292c2e9b86fa32da5bce02e69c13ece90599f9939d981ec89",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "hash": "b556189a813cd3a89e89412b88d75dce8040b665404bdd602e7e6321641f5ea5",
+      "title": "4lilpigs 4.3 Modes and Adjustment settings",
       "firmware_version": [
         "4.3"
       ],
@@ -918,8 +918,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/4lilpigs_Rates.txt",
-      "hash": "38c6794dbe8d7122d99cf35964889f59c06ecb6b4527e33e64f7676e6d02d997",
-      "title": "Default rates",
+      "hash": "dde8c387e7c557636468d733b3be23791d4f934e5a2277932f48f679aaaa710b",
+      "title": "4lilpigs rates",
       "firmware_version": [
         "4.3"
       ],
