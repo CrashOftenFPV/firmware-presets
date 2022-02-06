@@ -1,0 +1,21 @@
+#$ TITLE: Default 4.3 Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: modes, adjustments, aux, switch
+#$ AUTHOR: 4lilpigs
+#$ DESCRIPTION: Set modes and adjustment ranges for Betaflight 4.3
+
+# aux
+aux 0 0 0 1725 1850 0 0
+aux 1 0 0 1425 1550 0 0
+aux 2 0 0 1125 1225 0 0
+aux 3 1 2 900 1700 0 0
+aux 4 13 0 1925 1975 0 0
+aux 5 28 0 1725 1825 0 0
+aux 6 31 0 1850 1900 0 0
+aux 7 35 0 1425 1700 0 0
+aux 8 49 0 1125 1425 0 0
+
+# adjrange
+adjrange 0 0 1 900 2100 12 1 0 0
