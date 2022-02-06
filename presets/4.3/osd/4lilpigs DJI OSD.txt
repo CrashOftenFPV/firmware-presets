@@ -1,0 +1,32 @@
+#$ TITLE: 4lilpigs Freestyle DJI  4.3 OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: DJI,OSD, 4lilpigs, FreeStyle
+#$ AUTHOR: 4lilpigs
+#$ DESCRIPTION: Sets the OSD values for my DJI on Betaflight 4.3
+
+set osd_units = METRIC
+set osd_warn_batt_not_full = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+set osd_warn_link_quality = ON
+set osd_vbat_pos = 2498
+set osd_remaining_time_estimate_pos = 88
+set osd_flymode_pos = 225
+set osd_ah_pos = 79
+set osd_current_pos = 2510
+set osd_mah_drawn_pos = 2504
+set osd_craft_name_pos = 2437
+set osd_pidrate_profile_pos = 2104
+set osd_warnings_pos = 2048
+set osd_avg_cell_voltage_pos = 2410
+set osd_battery_usage_pos = 2080
+set osd_disarmed_pos = 2314
+set osd_esc_tmp_pos = 23
+set osd_esc_rpm_pos = 87
+set osd_flip_arrow_pos = 290
+set osd_log_status_pos = 24
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_total_time = ON
