@@ -141,6 +141,7 @@
       "VTX"
     ],
     "author": [
+      "4lilpigs",
       "Alex Campbell (Chief)",
       "Alex Vanover",
       "AyyyKayyy - Anthony Knight",
@@ -170,6 +171,7 @@
       "250Hz",
       "3 inch",
       "3\"",
+      "4lilpigs",
       "4S",
       "5 In",
       "5 Inch",
@@ -219,6 +221,7 @@
       "diatone",
       "disable",
       "divimath",
+      "DJI",
       "DShot telemetry",
       "E7082VM",
       "ELRS",
@@ -235,7 +238,7 @@
       "fpvian",
       "freedom",
       "freedom spec",
-      "freestyle",
+      "FreeStyle",
       "freestyle_HD",
       "freesytle",
       "frsky",
@@ -712,6 +715,24 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/4lilpigs DJI OSD.txt",
+      "hash": "80c86d2a8c3fbb3ffaca71c0b941cef93ec2adf9fc1286db34acc41065a17199",
+      "title": "4lilpigs Freestyle DJI  4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DJI",
+        "OSD",
+        "4lilpigs",
+        "FreeStyle"
+      ],
+      "author": "4lilpigs",
       "priority": 0
     },
     {
