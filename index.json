@@ -697,6 +697,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/4lilpigs_Modes.txt",
+      "hash": "3133ed1fc18438a292c2e9b86fa32da5bce02e69c13ece90599f9939d981ec89",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "4lilpigs",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
       "title": "Default 4.3 Modes and Adjustment settings",
@@ -896,6 +914,22 @@
         "stats"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/4lilpigs_Rates.txt",
+      "hash": "38c6794dbe8d7122d99cf35964889f59c06ecb6b4527e33e64f7676e6d02d997",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "actual"
+      ],
+      "author": "4lilpigs",
       "priority": 0
     },
     {
