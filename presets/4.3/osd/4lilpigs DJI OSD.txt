@@ -30,3 +30,5 @@ set osd_log_status_pos = 24
 set osd_stat_endbatt = ON
 set osd_stat_battery = ON
 set osd_stat_total_time = ON
+set stats_min_armed_time_s = 45
+set osd_total_flights_pos = 2467
