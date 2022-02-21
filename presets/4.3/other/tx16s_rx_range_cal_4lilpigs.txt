@@ -1,0 +1,15 @@
+#$ TITLE: Reset 4.3 Stats
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: rx_range, TX16S, 4lilpigs
+#$ AUTHOR: 4lilpigs
+#$ DESCRIPTION: set rxrange to suit my TX16s 
+
+
+# rxrange
+rxrange 0 985 2010
+rxrange 1 993 2010
+rxrange 2 996 2010
+rxrange 3 986 2012
+
